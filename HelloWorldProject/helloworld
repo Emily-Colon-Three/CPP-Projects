@@ -1,0 +1,9 @@
+// This is a basic program, just meant to fill in this CodeBlocks project with a program of some sort.
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!\n";
+    return 0;
+}
